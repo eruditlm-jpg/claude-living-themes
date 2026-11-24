@@ -1,0 +1,1 @@
+{ "name": "ocean-nocturne", "version": "0.1.0", "description": "Océan sous la lune : la marée monte avec le contexte, le plancton s'allume au fil des outils", "author": { "name": "eruditlm-jpg" }, "license": "MIT", "types": "./types/index.d.ts" }

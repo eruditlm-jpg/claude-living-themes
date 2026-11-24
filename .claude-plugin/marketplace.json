@@ -1,12 +1,21 @@
 {
   "name": "claude-living-themes",
-  "owner": { "name": "eruditlm-jpg" },
-  "metadata": { "description": "Thèmes vivants pour les apps Claude : des arrière-plans animés qui réagissent à la session." },
+  "owner": {
+    "name": "eruditlm-jpg"
+  },
+  "metadata": {
+    "description": "Thèmes vivants pour les apps Claude : des arrière-plans animés qui réagissent à la session."
+  },
   "plugins": [
     {
       "name": "lucioles",
       "source": "./plugins/lucioles",
       "description": "Prairie crépusculaire animée : les lucioles se multiplient à mesure que le contexte se remplit"
+    },
+    {
+      "name": "ocean-nocturne",
+      "source": "./plugins/ocean-nocturne",
+      "description": "Océan sous la lune : la marée monte avec le contexte, le plancton s'allume au fil des outils"
     }
   ]
 }

@@ -7,6 +7,7 @@ Une collection de **thèmes vivants** pour les apps Claude (desktop et mobile) :
 | Thème | Description |
 | --- | --- |
 | [lucioles](plugins/lucioles) | Une prairie au crépuscule où les lucioles se multiplient à mesure que la fenêtre de contexte se remplit : 10 au départ, 90 quand elle est pleine. |
+| [ocean-nocturne](plugins/ocean-nocturne) | Un océan sous la pleine lune : la marée monte avec le remplissage du contexte et le plancton bioluminescent s'allume au fil des appels d'outils. |
 
 ## Installation
 
@@ -14,12 +15,17 @@ Une collection de **thèmes vivants** pour les apps Claude (desktop et mobile) :
 
 ```
 /plugin install lucioles --marketplace eruditlm-jpg/claude-living-themes
+/plugin install ocean-nocturne --marketplace eruditlm-jpg/claude-living-themes
 ```
 
 Depuis un shell :
 
 ```bash
 claude plugin install lucioles --marketplace eruditlm-jpg/claude-living-themes
+```
+
+```bash
+claude plugin install ocean-nocturne --marketplace eruditlm-jpg/claude-living-themes
 ```
 
 Dans l'app desktop, où `/plugin` ne fonctionne pas : clique sur **+** à côté de la zone de saisie, puis **Plugins**, **Add marketplace** avec `eruditlm-jpg/claude-living-themes`, puis **Add plugin**.
