@@ -1,0 +1,1 @@
+{ "name": "ville-neon", "version": "0.1.0", "description": "Ville néon sous la pluie : les fenêtres s'allument à mesure que le coût de la session augmente", "author": { "name": "eruditlm-jpg" }, "license": "MIT", "types": "./types/index.d.ts" }

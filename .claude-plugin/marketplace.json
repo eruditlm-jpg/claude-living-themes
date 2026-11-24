@@ -21,6 +21,11 @@
       "name": "foret-sous-la-pluie",
       "source": "./plugins/foret-sous-la-pluie",
       "description": "Forêt sous la pluie : l'orage s'épaissit quand des outils échouent et s'éclaircit quand tout repasse au vert"
+    },
+    {
+      "name": "ville-neon",
+      "source": "./plugins/ville-neon",
+      "description": "Ville néon sous la pluie : les fenêtres s'allument à mesure que le coût de la session augmente"
     }
   ]
 }
