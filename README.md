@@ -2,6 +2,16 @@
 
 Une collection de **thèmes vivants** pour les apps Claude (desktop et mobile) : des arrière-plans animés et des palettes assorties qui réagissent à ta session.
 
+## Le plus simple : tous les thèmes et `/ambiance`
+
+Le plugin **themes-vivants** réunit les quatre thèmes. Une fois installé, tape `/ambiance` pour voir la liste, puis `/ambiance ocean`, `/ambiance foret`, `/ambiance ville` ou `/ambiance lucioles` pour changer. Le choix est retenu pour les sessions suivantes, et `/ambiance aucun` retire le fond.
+
+```
+/plugin install themes-vivants --marketplace eruditlm-jpg/claude-living-themes
+```
+
+(Claude Code a déjà une commande `/theme` pour les couleurs du terminal, d'où le nom `/ambiance`.)
+
 ## Thèmes
 
 | Thème | Description |
@@ -44,7 +54,7 @@ Dans l'app desktop, où `/plugin` ne fonctionne pas : clique sur **+** à côté
 
 Réponds `y` pour ajouter la marketplace, puis choisis une portée.
 
-Installe un seul thème à la fois : deux thèmes actifs se disputent l'arrière-plan.
+Installe soit **themes-vivants**, soit **un seul** thème séparé : deux thèmes actifs se disputent l'arrière-plan.
 
 Les thèmes s'affichent dans les apps desktop et mobile ; le terminal ne dessine pas d'arrière-plan.
 

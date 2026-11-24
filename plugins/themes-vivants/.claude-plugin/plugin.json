@@ -1,0 +1,1 @@
+{ "name": "themes-vivants", "version": "0.1.0", "description": "Les 4 thèmes vivants en un seul plugin, avec la commande /ambiance pour passer de l'un à l'autre", "author": { "name": "eruditlm-jpg" }, "license": "MIT", "types": "./types/index.d.ts" }
