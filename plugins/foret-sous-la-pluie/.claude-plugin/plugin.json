@@ -1,0 +1,1 @@
+{ "name": "foret-sous-la-pluie", "version": "0.1.0", "description": "Forêt sous la pluie : l'orage s'épaissit quand des outils échouent et s'éclaircit quand tout repasse au vert", "author": { "name": "eruditlm-jpg" }, "license": "MIT", "types": "./types/index.d.ts" }
